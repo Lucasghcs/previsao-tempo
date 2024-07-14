@@ -1,5 +1,5 @@
 npx{
-  "name": "clima",
+  "name": "previsao-tempo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
